@@ -1,6 +1,7 @@
 # Multimodal-misogyny-detection
 
 Multimodal (image + text) detection of misogyny from memes using MAMI dataset (https://competitions.codalab.org/competitions/34175, https://aclanthology.org/2022.semeval-1.74/).
+The project is implemented in Google Colab to utilize their free GPUs.
 
 One example model training - https://colab.research.google.com/drive/1AiRrzqAOYKyug6zMPv46m3RJTzNX2jVM?usp=sharing
 
